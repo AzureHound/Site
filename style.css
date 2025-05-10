@@ -327,7 +327,7 @@ input:checked + .slider:before {
   border: 1px solid var(--card-border);
 }
 
-.explore-btn {
+.gist-btn {
   background-color: var(--lavender);
   color: var(--base);
   border: 1px solid var(--lavender);
@@ -336,14 +336,14 @@ input:checked + .slider:before {
     opacity 0.3s ease;
 }
 
-.explore-btn:hover {
+.gist-btn:hover {
   background-color: var(--lavender);
   opacity: 0.9;
   border: 1px solid var(--lavender);
 }
 
 .eye-icon,
-.explore-icon {
+.gist-icon {
   font-size: 1rem;
 }
 
